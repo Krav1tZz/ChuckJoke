@@ -7,8 +7,6 @@ a2 = a.read()
 
 list = a2.split('.')
 
-for n in list:
-    print(n)
 
 def jk(word):
     return a1.write(new_name(word))
